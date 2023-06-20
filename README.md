@@ -68,7 +68,8 @@ The results are visualized using Matplotlib, showing the accuracy, precision, an
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project does not have a specific license. All rights reserved.
+
 
 ## Acknowledgements
 This project is built upon the contributions and resources from the open-source community, including scikit-learn, NLTK, and Matplotlib.
