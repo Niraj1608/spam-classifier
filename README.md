@@ -20,7 +20,7 @@ The project includes the following components:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/email-spam-classifier.git
+   git clone https://github.com/Niraj1608/email-spam-classifier.git
    ```
 
 2. Install the required dependencies:
