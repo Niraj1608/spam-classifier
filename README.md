@@ -1,6 +1,6 @@
 # Email Spam Classifier
 
-This Email Spam Classifier is a machine learning model that predicts whether an email is spam or not. It utilizes Multinomial Naive Bayes algorithm, NLTK, Matplotlib, and both CountVectorizer and TfidfVectorizer for feature extraction.
+This Email Spam Classifier is a machine learning model that predicts whether an email is spam or not. It utilizes Multinomial Naive Bayes algorithm and LogicalRegression , NLTK, Matplotlib, and both CountVectorizer and TfidfVectorizer for feature extraction .
 
 ## Description
 
